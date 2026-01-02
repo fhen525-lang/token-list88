@@ -652,6 +652,12 @@
       "chainId": 1,
       "decimals": 8,
       "logoURI": "https://tokens.pancakeswap.finance/images/eth/0xcbB7C0000aB88B473b1f5aFd9ef808440eed33Bf.png"
-    }
-  ]
-}
+    },
+   {
+    "name": "Taking the lead（一马当先）",
+    "symbol": "YMDX",
+    "address": "0x7f19e6eeb168da11dd83ed59b499260bf804be48",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://github.com/fhen525-lang/taken-logos/blob/main/YMDX.png?raw=true"
+   }
